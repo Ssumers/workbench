@@ -1,0 +1,12 @@
+C:\Users\Nam\Desktop\intouch_swirch\intouch_swirch\bin\Release\intouch_swirch.exe.config
+C:\Users\Nam\Desktop\intouch_swirch\intouch_swirch\bin\Release\intouch_swirch.exe
+C:\Users\Nam\Desktop\intouch_swirch\intouch_swirch\bin\Release\intouch_swirch.pdb
+C:\Users\Nam\Desktop\intouch_swirch\intouch_swirch\obj\Release\intouch_swirch.Form1.resources
+C:\Users\Nam\Desktop\intouch_swirch\intouch_swirch\obj\Release\intouch_swirch.Properties.Resources.resources
+C:\Users\Nam\Desktop\intouch_swirch\intouch_swirch\obj\Release\intouch_swirch.csproj.GenerateResource.Cache
+C:\Users\Nam\Desktop\intouch_swirch\intouch_swirch\obj\Release\intouch_swirch.exe
+C:\Users\Nam\Desktop\intouch_swirch\intouch_swirch\obj\Release\intouch_swirch.pdb
+C:\Users\Nam\Desktop\intouch_swirch\intouch_swirch\obj\Release\intouch_swirch.csprojResolveAssemblyReference.cache
+C:\Users\MH\Desktop\원자력_intouch switch (2)\intouch_swirch\intouch_swirch\bin\Release\intouch_swirch.exe.config
+C:\Users\MH\Desktop\원자력_intouch switch (2)\intouch_swirch\intouch_swirch\obj\Release\intouch_swirch.exe
+C:\Users\MH\Desktop\원자력_intouch switch (2)\intouch_swirch\intouch_swirch\obj\Release\intouch_swirch.pdb
