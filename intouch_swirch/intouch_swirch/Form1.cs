@@ -17,6 +17,7 @@ namespace intouch_swirch
 {
     public partial class Form1 : Form
     {
+        //github
         IntPtr hWnd;
         string m = "0";
         int order, cycle = 0;
